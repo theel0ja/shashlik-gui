@@ -8,7 +8,10 @@ Graphical user interface for [Shashlik](http://www.shashlik.io/).
 * [shashlik](http://www.shashlik.io/download/)
 
 ## Installation
+### Automatic
+Download .deb-package [here](http://pakettivarasto.kotilinux.org/kotilinux/pool/main/s/shashlik-gui/).
 
+### Manual
 1. Install zenity
 2. Install shashlik-gui:
 ```
