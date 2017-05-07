@@ -2,13 +2,13 @@
 
 Graphical user interface for [Shashlik](http://www.shashlik.io/).
 
-## Depencies
+## Dependencies
 
 * zenity
 * [shashlik](http://www.shashlik.io/download/)
 
 ## Installation
-### Automatic
+### Automatic (for Debian and Ubuntu)
 Download .deb-package [here](http://pakettivarasto.kotilinux.org/kotilinux/pool/main/s/shashlik-gui/).
 
 ### Manual
