@@ -14,7 +14,7 @@ Download .deb-package [here](http://pakettivarasto.kotilinux.org/kotilinux/pool/
 ### Manual
 1. Install zenity
 2. Install shashlik-gui:
-```
+```bash
 git clone https://github.com/theel0ja/shashlik-gui.git
 cd shashlik-gui
 chmod +x install-app.sh
